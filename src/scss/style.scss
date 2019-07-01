@@ -1,0 +1,10 @@
+@import "~bootstrap/scss/bootstrap";
+@import "vars";
+@import "fonts";
+@import "header";
+@import "footer";
+
+html, body{
+  overflow-x: hidden;
+  font-family: $font-stack;
+}
